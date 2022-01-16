@@ -1,2 +1,4 @@
 # workspace
-personal workspace
+
+개인 작업실입니다.
+아마 블로그를 하게되면 간단한 코드 저장용 레포로 사용하게 될 것 같습니다.
